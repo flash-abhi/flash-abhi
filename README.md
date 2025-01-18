@@ -18,7 +18,9 @@ I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 
 ### Technologies I Know
 ![HTML](https://img.shields.io/badge/Html-orange?logo=HTML&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript&logoColor=yellow)
+![CSS](https://img.shields.io/badge/CSS-skyblue?logo=CSS&logoColor=blue)
+![BootStrap](https://img.shields.io/badge/bootstrap-purple?logo=bootstrap&logoColor=darkpurple)
+![JavaScript](https://img.shields.io/badge/javascript-lightyellow?logo=javascript&logoColor=yellow)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
