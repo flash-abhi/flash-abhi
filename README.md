@@ -24,6 +24,7 @@ I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 ![JavaScript](https://img.shields.io/badge/javascript-lightyellow?logo=javascript&logoColor=yellow)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-white?logo=Express&logoColor=black)
+![mongodb](https://img.shields.io/badge/mongodb-green?logo=MongoDb&logoColor=black)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 
 ### Most Used Languages
